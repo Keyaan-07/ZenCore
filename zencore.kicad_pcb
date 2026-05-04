@@ -1333,19 +1333,19 @@
 			(at -2.24 5.375 180)
 			(size 1.9 1.35)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(uuid "55466fa1-2a71-4483-96b1-60de46415c83")
+			(uuid "76975f95-1207-46c1-9dc5-0e2ae825fe3b")
 		)
 		(pad "11" smd rect
 			(at 3.73 5.375 180)
 			(size 1.9 1.35)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(uuid "87545003-9756-44de-8554-090b771b2b45")
+			(uuid "76975f95-1207-46c1-9dc5-0e2ae825fe3b")
 		)
 		(pad "11" smd rect
 			(at 5.755 -5.1 180)
 			(size 1.17 1.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(uuid "999bda79-ac12-449a-907e-7e572ea28d56")
+			(uuid "76975f95-1207-46c1-9dc5-0e2ae825fe3b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Molex_104031-0811.step"
@@ -1357,6 +1357,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SIM-SMD_8P-1040310811.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -5896,7 +5907,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "c26fad08-1976-426d-a1f6-db91596bc843")
+			(uuid "2a0ea7b1-0a47-4dfa-aab8-6cce3095e056")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.105 180)
@@ -5908,7 +5919,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "3545ad1e-2b44-4e24-8ed3-1d12ef19edfa")
+			(uuid "2a0ea7b1-0a47-4dfa-aab8-6cce3095e056")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.075 180)
@@ -5920,7 +5931,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "3791aefd-3602-44f4-afbb-37d40a04e7c6")
+			(uuid "2a0ea7b1-0a47-4dfa-aab8-6cce3095e056")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_XKB_U262-16XN-4BVC11.step"
@@ -5932,6 +5943,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/USB-C-SMD_TYPE-C16PIN.step"
+			(offset
+				(xyz 0 -1.1 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)

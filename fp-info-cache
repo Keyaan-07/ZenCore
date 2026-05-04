@@ -1,4 +1,4 @@
-25683779400096592
+25706898810376902
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64476,6 +64476,13 @@ air coil inductor wurth we cair
 0
 2
 2
+Inductor_SMD
+L_smd_1212_3232metric
+
+
+0
+2
+2
 Inductor_SMD_Wurth
 L_Wurth_WE-LQSH-2010
 Semi-Shielded High Saturation Power Inductor, body 2x1.6mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2010
@@ -72289,6 +72296,13 @@ XILINX BGA-676 FG676/FGG676
 676
 676
 Package_BGA
+BGA-729_27x27_13.9x13.9mm
+
+
+0
+729
+729
+Package_BGA
 BGA-1023_33.0x33.0mm_Layout32x32_P1.0mm
 BGA-1023
 BGA-1023
@@ -72666,6 +72680,13 @@ BGA 42 0.4
 0
 42
 42
+Package_BGA
+RK3562
+
+
+0
+478
+478
 Package_BGA
 ST_LFBGA-354_16x16mm_Layout19x19_P0.8mm
 ST LFBGA-354, 16.0x16.0mm, 354 Ball, 19x19 Layout, 0.8mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.st.com/resource/en/datasheet/stm32mp151a.pdf
@@ -73170,6 +73191,20 @@ BGA 201 0.65
 0
 201
 201
+Package_BGA
+Untitled
+
+
+0
+0
+0
+Package_BGA
+Untitled_1
+
+
+0
+0
+0
 Package_BGA
 VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm
 VFBGA-49, 7x7, 5x5mm package, pitch 0.65mm
@@ -86260,6 +86295,13 @@ USON-20 2x4mm Pitch 0.4mm
 0
 20
 20
+Package_SON
+Untitled
+
+
+0
+0
+0
 Package_SON
 VSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm
 VSON, 8 Pin (https://www.ti.com/lit/ds/symlink/thvd1450.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -102690,12 +102732,26 @@ BGA-102_L6.5-W6.5-P0.50-TL_TI_IWRL6432BDQGAMFR
 102
 102
 easyeda2kicad
+BGA-478_L13.9-W13.9_RK3562
+
+
+0
+478
+478
+easyeda2kicad
 DFN-6_L1.6-W1.6-P0.50-BL-EP1.0
 
 
 0
 7
 7
+easyeda2kicad
+FBGA-96_L14.0-W9.0-R16-C6-P0.80-TL
+
+
+0
+96
+96
 easyeda2kicad
 IND-SMD_L2.0-W1.6_AOTA-B201610S3R3-101-T
 
@@ -102753,6 +102809,13 @@ QFN-24_L4.0-W4.0-P0.50-BL-EP2.6
 25
 25
 easyeda2kicad
+QFN-48_L6.0-W6.0-P0.40-TL-EP4.6
+
+
+0
+49
+49
+easyeda2kicad
 QFN-48_L7.0-W7.0-P0.50-TL-EP5.4-1
 
 
@@ -102767,6 +102830,13 @@ QFN-60_L7.0-W7.0-P0.40-TL-EP3.4
 61
 61
 easyeda2kicad
+QFN-68_L7.0-W7.0-P0.35-BL-EP5.5
+
+
+0
+78
+69
+easyeda2kicad
 SC-70-6_L2.2-W1.3-P0.65-LS2.1-BL
 
 
@@ -102774,12 +102844,26 @@ SC-70-6_L2.2-W1.3-P0.65-LS2.1-BL
 6
 6
 easyeda2kicad
+SIM-SMD_8P-1040310811
+
+
+0
+14
+14
+easyeda2kicad
 SOT-23-5_L2.9-W1.6-P0.95-LS2.7-BR
 
 
 0
 5
 5
+easyeda2kicad
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
 easyeda2kicad
 SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BR
 
@@ -102810,6 +102894,13 @@ VSON8_L2.0-W2.3-P0.50-LS3.1-BL
 8
 easyeda2kicad
 WDFN-10_L3.0-W3.0-P0.50-BL-EP
+
+
+0
+11
+11
+easyeda2kicad
+WSON-10_L2.2-W2.0-P0.40-BL-EP_TI_DLH0010A
 
 
 0
