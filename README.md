@@ -1,1 +1,2 @@
-Nothing to see here yet
+# Zencore F4
+Zencore F4 is a low-cost, Pico sized STM32F411 Development board along with an SD card reader for SDMMC development. The footprint is breadboard compatible and it features the W25Q128JVS 128Mbit Flash chip for off-chip storage.
