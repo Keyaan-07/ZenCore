@@ -60,19 +60,19 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|167600000|74470000|05ff92c2-6ba9-49fd-b87e-41081ccb5e48|2128e874-7d0f-420d-b044-e743fbc14272",
+          "hole_clearance|191300000|92250000|05ff92c2-6ba9-49fd-b87e-41081ccb5e48|2128e874-7d0f-420d-b044-e743fbc14272",
           ""
         ],
         [
-          "hole_clearance|167800000|74470000|05ff92c2-6ba9-49fd-b87e-41081ccb5e48|f94c079d-386c-41d2-b358-9c5d159486a0",
+          "hole_clearance|191300000|92450000|05ff92c2-6ba9-49fd-b87e-41081ccb5e48|f94c079d-386c-41d2-b358-9c5d159486a0",
           ""
         ],
         [
-          "hole_clearance|173200000|74470000|5c3c55eb-0747-43cd-a663-d817769fbdce|33be2d6c-3758-473e-a034-47f7534df80c",
+          "hole_clearance|191300000|97850000|5c3c55eb-0747-43cd-a663-d817769fbdce|33be2d6c-3758-473e-a034-47f7534df80c",
           ""
         ],
         [
-          "hole_clearance|173400000|74470000|5c3c55eb-0747-43cd-a663-d817769fbdce|b00106a6-33a8-408c-865b-994df405b0eb",
+          "hole_clearance|191300000|98050000|5c3c55eb-0747-43cd-a663-d817769fbdce|b00106a6-33a8-408c-865b-994df405b0eb",
           ""
         ]
       ],
@@ -113,9 +113,9 @@
         "missing_footprint": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "error",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "error",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
@@ -467,7 +467,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
