@@ -526,7 +526,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "zencore.step",
+      "step": "../zencore.step",
       "svg": "",
       "vrml": ""
     },
