@@ -1,6 +1,7 @@
 # Zencore F4
-Zencore F4 is a low-cost, Pico sized STM32F411 Development board along with an SD card reader for SDMMC development. The footprint is breadboard compatible and it features the W25Q128JVS 128Mbit Flash chip for off-chip storage. Rather than traditional devboards, this features a compact form factor. The pins are labelled on the bottom side of the PCB.  
-I want to use the stm32f411 mcu for a bigger project and thus i will be experimenting with this one(hence the SD card interface). 
+Zencore F4 is a low-cost, Pico sized STM32F411 Development board along with an SD card reader for SDMMC development. The footprint is breadboard compatible and it features the W25Q128JVS 128Mbit Flash chip for non-volatile storage. Unlike traditional devboards, this features a compact form factor. The pins are labelled on the bottom side of the PCB.  
+I want to use the stm32f411 mcu for a bigger project and thus i will be experimenting with this one(hence the SD card interface). Just plug in the USB-C to your PC and upload the code via STM32cubeIDE to get started.  
+To build this, clone/download this repository, and in the /hardware/production folder, use the files and the bom to order the parts yourself and assemble it by hand!
 
 
 See the board on [KiCanvas](https://kicanvas.org/?github=https://github.com/Keyaan-07/ZenCore/tree/main/hardware)
