@@ -13,7 +13,7 @@ See the board on [KiCanvas](https://kicanvas.org/?github=https://github.com/Keya
 ![schematic](/media/schematic.png)
 
 
-#BOM
+# BOM
 |Designator              |Function         |Value                      |Footprint                                      |Quantity|Price        |Amount|Order|Link                                              |
 |------------------------|-----------------|---------------------------|-----------------------------------------------|--------|-------------|------|-----|--------------------------------------------------|
 |PCB                     |PCB              |21x51                      |2 layer board                                  |5       |0.42         |2.1   |Yes  |https://jlcpcb.com                                |
